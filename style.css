@@ -57,3 +57,19 @@ body{
     color: seagreen;
     font-size: 20px;
 }
+/* my plans style */
+.My-Plans{
+    margin-top:130px;
+} 
+.section-title{
+    text-align: center;
+}
+.skills-m{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.skills-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
