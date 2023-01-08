@@ -32,3 +32,28 @@ body{
     color: white;
     margin-top: 7px;
 }
+/* second part */
+.second-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 80px 40px 102px;
+}
+.second-part-2div{
+    margin-left: 16px;
+}
+.second-part-2div-span{
+    display: block;
+    font-size: 25px;
+    font-weight: 800;
+}
+.second-part-2div>p{
+    color: gray;
+}
+.info{
+    display: block;
+}
+.fa-solid{
+    color: seagreen;
+    font-size: 20px;
+}
